@@ -5,6 +5,7 @@ class Cat
     puts "meow!"
   end 
   
-  def initialise(name)
+  def initialize(name)
+    
     
     
